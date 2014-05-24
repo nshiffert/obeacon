@@ -1,7 +1,5 @@
-This the Landing Page demo for Anypic that was presented
-during the iOS meetup.
 
-You can find the slides here: https://speakerdeck.com/jamesjyu/parse-overview-and-hosting
+hosted at [obeacon.parseapp.com](http://obeacon.parseapp.com)
 
 To get run this code:
 

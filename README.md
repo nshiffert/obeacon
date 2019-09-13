@@ -1,5 +1,5 @@
 
-No longer hosted at [obeacon.parseapp.com](http://obeacon.parseapp.com)
+No longer hosted on parse
 
 To get run this code:
 
